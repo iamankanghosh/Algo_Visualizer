@@ -3,4 +3,4 @@ Algorithm Visualizer is a tool that allows developers to easily visualize and un
 
 run command node app.js to run this project
 
-contributer : ankan-withadream 
+other contributer : ankan-withadream 
