@@ -17,7 +17,7 @@ app.use(express.json());
 // const Register = require('./src/model/regschema');
 
 app.get('/', (req, res) => {
-  res.json({"msg":"hello});
+  res.json({"msg":"hello"});
 })
 // app.get('/sort', (req, res) => {
 //     res.render('sort')
